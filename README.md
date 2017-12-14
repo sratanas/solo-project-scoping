@@ -2,7 +2,7 @@
 
 ### Public views
  - Create homepage with general information, most recent upcoming events and featured organization or event.
-- Create calendar view that pulls in and displays inputs from all organizations. Include filter options and search bar.
+- Create calendar view that pulls in and displays inputs from all organizations. Use either Angular Materials or Boostrap for calendar Include filter options and search bar.
 
 ### User specific:
 - Add authentication and registration view for users to sign up for a profile.
